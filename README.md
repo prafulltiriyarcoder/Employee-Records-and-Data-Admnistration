@@ -77,7 +77,7 @@ This dashboard is designed to address key operational questions, such as:
 
 ## 📂 Repository Contents
 
-- Employee_Records_Dashboard.pdf – Dashboard snapshots and layout
+- Employee_Analytics_Dashboard.pdf – Dashboard snapshots and layout
 - .pbix file – Editable Power BI project
 
 ---
