@@ -1,4 +1,4 @@
-# 📊 Employee-Records-and-Data-Admnistration – Power BI
+# 📊 Employee Analytics Dashboard – Power BI
 
 This repository presents an interactive Power BI dashboard developed to deliver meaningful insights into employee productivity, project distribution, and managerial performance across various departments.
 
